@@ -1,2 +1,2 @@
-# WindowsForm-ile-Kay-t-Sistemi
+# WindowsForm-ile-Kayit-Sistemi
 C# Dili İle Kayıt Sistemi Yapma
